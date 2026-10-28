@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Soft cream background circle -->
+  <rect width="64" height="64" rx="16" fill="#EDE5D6" />
+  
+  <!-- Subtle botanical outer ring -->
+  <circle cx="32" cy="32" r="27" stroke="#646B48" stroke-width="1.2" stroke-dasharray="2 2" opacity="0.6" />
+  <circle cx="32" cy="32" r="24.5" stroke="#8A6347" stroke-width="0.8" opacity="0.7" />
+
+  <!-- Botanical Herbals Emblem (resembling Hiba Herbals label floral crest) -->
+  <!-- Center stem and bloom -->
+  <path d="M32 38V22" stroke="#283321" stroke-width="1.6" stroke-linecap="round" />
+  <circle cx="32" cy="20" r="2.2" fill="#6A1C2C" />
+  
+  <!-- Left branch and bloom -->
+  <path d="M32 30C29 27 26 27 24 25" stroke="#283321" stroke-width="1.4" stroke-linecap="round" />
+  <circle cx="23" cy="24" r="1.8" fill="#646B48" />
+
+  <!-- Right branch and bloom -->
+  <path d="M32 30C35 27 38 27 40 25" stroke="#283321" stroke-width="1.4" stroke-linecap="round" />
+  <circle cx="41" cy="24" r="1.8" fill="#646B48" />
+
+  <!-- Soft leaves -->
+  <path d="M32 34C30 33 28 34 27 36C29 36 31 35 32 34Z" fill="#646B48" />
+  <path d="M32 34C34 33 36 34 37 36C35 36 33 35 32 34Z" fill="#646B48" />
+
+  <!-- Natural Dew / Elixir Droplet -->
+  <path d="M32 40C30.6 40 29.5 41.1 29.5 42.5C29.5 44 32 46.5 32 46.5C32 46.5 34.5 44 34.5 42.5C34.5 41.1 33.4 40 32 40Z" fill="#8A6347" />
+</svg>
