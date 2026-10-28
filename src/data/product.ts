@@ -68,11 +68,11 @@ export const brandConfig: BrandConfig = {
     "Heba Herbals brings a thoughtful touch to everyday beauty. Butter Bliss is the starting point of a simple lip care ritual, presented with a love for understated design and everyday essentials.",
   contact: {
     email: "care@hebaherbals.com",
-    phone: "+91 98765 43210", // Editable brand contact placeholder
-    whatsappNumber: "919876543210", // Editable for WhatsApp direct ordering
+    phone: "+91 9496677944", // Editable brand contact placeholder
+    whatsappNumber: "9496677944", // Editable for WhatsApp direct ordering
     whatsappOrderMessage:
       "Hello Heba Herbals, I would like to order Butter Bliss All-Natural Lip Elixir.",
-    location: "Kochi, Kerala, India",
+    location: "Kerala, India",
     instagramUrl: null, // Left as null until verified profile URL is provided
     instagramHandle: "@hebaherbals",
   },
@@ -146,7 +146,7 @@ export const productData: ProductDetails = {
     "Store in a cool, dry place away from direct sunlight and excessive heat. Keep lid securely fastened when not in use.",
   manufacturer: {
     name: "Heba Herbals",
-    location: "Handcrafted in small batches",
+    location: "Kerala, India",
     smallBatchNote:
       "Each batch is carefully prepared in controlled quantities to maintain formula integrity and freshness.",
   },
